@@ -1,4 +1,4 @@
 # TERMUX-APK
-apk Termux
+### Dowload:
 
 https://f-droid.org/packages/com.termux/
